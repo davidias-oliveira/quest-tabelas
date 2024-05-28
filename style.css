@@ -1,0 +1,26 @@
+body{
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+.fundo-tabelas{
+    background-color:#424250 ;
+    border: 1px;
+    margin: 0 auto;
+    width: 20%;
+}
+
+.cabecalho-moda{
+
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+}
+
+table, th, td {
+    text-align: center;
+}
